@@ -1,6 +1,3 @@
-This is my CLAUDE.md
-
-```
 # Important
 - Always use the todos tool to track tasks
 
@@ -12,4 +9,3 @@ Always use bun.
 
 # Secrets
 Never put any secrets in the chat.
-```
